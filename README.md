@@ -1,4 +1,4 @@
-# DDKinetics v3
+# DDKinetics 
 ### Professional Diadochokinesis (DDK) Assessment App for Speech-Language Pathologists
 **Built from scratch with production PCM/RMS/refractory audio engine**
 
