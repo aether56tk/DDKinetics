@@ -1,0 +1,30 @@
+name: ddkinetics
+description: Professional Diadochokinesis Assessment Tool for Speech-Language Pathologists
+publish_to: 'none'
+version: 3.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^6.1.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  record: ^6.2.0
+  permission_handler: ^12.0.1
+  google_fonts: ^8.0.2
+  flutter_animate: ^4.5.0
+  gap: ^3.0.1
+  intl: ^0.20.2
+  uuid: ^4.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
